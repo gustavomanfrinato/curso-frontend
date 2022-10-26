@@ -1,7 +1,7 @@
 # Curso Front-end
 
 # GIT
-## versionamento
+## Conceitos de versionamento
  - Histórico
  - Controle de versão
  - Quem alterou
