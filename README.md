@@ -35,3 +35,12 @@ Mac (brew): brew install git
 
  ## GitFlow
  Fluxo do Git
+
+### Branchs
+são ramificações / versões paralelas
+
+- main / master (vai para produção, quando o projeto é publicado)
+- develop (utilizada para desenvolvimento / testes)
+- DOD - Definition of Done (critérios de aceite)
+- versionamento 1.0.0
+
